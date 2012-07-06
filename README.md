@@ -2,7 +2,7 @@
 
 - A GUI Only port of the RailsCasts TextMate theme to Vim.
 - Some parts of this theme were borrowed from the well-documented Lucius theme [2].
-- Initial file was written by Josh O'Rourke then improved by Oguz Bilgic
+- Initial file was written by Josh O'Rourke then improved by Oguz Bilgic, with minor modification for comment color by Patrick Schmitz.
 
 # Installation
 
